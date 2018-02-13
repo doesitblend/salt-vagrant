@@ -571,3 +571,4 @@ id: minion2
 ############################################
 # Location of the repository cache file on the master:
 #win_repo_cachefile: 'salt://win/repo/winrepo.p'
+transport: tcp
